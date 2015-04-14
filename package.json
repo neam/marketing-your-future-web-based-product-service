@@ -2,13 +2,16 @@
   "name": "presentation-hello-world",
   "version": "0.0.0",
   "dependencies": {
+    "bespoke-state": "^1.0.0",
     "bespoke-theme-cube": "^2.0.1",
     "bespoke-theme-fancy": "^0.3.1",
     "bespoke-theme-greeny": "0.0.4",
     "bespoke-theme-nebula": "^1.0.1",
     "bespoke-theme-terminal": "^1.0.1",
     "bespoke-theme-tweakable": "^1.0.1",
-    "bespoke-theme-voltaire": "^1.0.1"
+    "bespoke-theme-voltaire": "^1.0.1",
+    "canvas": "^1.2.1",
+    "nib": "^1.1.0"
   },
   "devDependencies": {
     "bespoke": "^1.0.0",
